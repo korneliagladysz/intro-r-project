@@ -6,3 +6,5 @@ Readme is great
 
 Yes 
 uśmiech 
+
+tak jest
